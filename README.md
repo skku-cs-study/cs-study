@@ -29,7 +29,7 @@
 2. [CPU 스케줄링](OS/CPU_스케줄링.md) @Heecheoljjang
 3. [프로세스 동기화](OS/프로세스_동기화.md) @Yangseungchan
 4. [교착 상태(Deadlock)](OS/교착_상태.md) @Gongmeda
-5. [물리 메모리](OS/물리_메모리.md)
-6. [가상 메모리](OS/가상_메모리.md)
-7. [파일 시스템](OS/파일_시스템.md)
+5. [물리 메모리](OS/물리_메모리.md) @Gongmeda
+6. [가상 메모리](OS/가상_메모리.md) @Yangseungchan
+7. [파일 시스템](OS/파일_시스템.md) @Heecheoljjang
 8. [그 외](OS/그_외.md)
